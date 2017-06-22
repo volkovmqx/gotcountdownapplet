@@ -1,0 +1,7 @@
+{
+    "dangerous": false, 
+    "description": "Check how many seconds left for the next episode of game of thrones", 
+    "icon": "ktimer", 
+    "uuid": "gotcountdown@messaoudi.me", 
+    "name": "Game of thrones Countdown"
+}
